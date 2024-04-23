@@ -1,4 +1,4 @@
-Players' Value Prediction - EA Sports FC24 (in Ultimate Team Mode)
+#Players' Value Prediction - EA Sports FC24 (in Ultimate Team Mode)
 
 In the world of virtual football, accurately determining the value of players is crucial for team management and player acquisition in gaming platforms like EA Sports FC24 Ultimate Team Mode. 
 Through Exploratory Data Analysis (EDA) techniques, we have delved into the dataset to identify key factors influencing player value. 
